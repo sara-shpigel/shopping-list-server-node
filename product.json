@@ -1,0 +1,33 @@
+[
+	{
+		"id": 123,
+		"name": "Bread",
+		"categoryId": 3,
+		"Ingerdients": [
+			{
+				"code": 1,
+				"percentage": 23
+			},
+			{
+				"code": 2,
+				"percentage": 45.2
+			}
+		]
+	},
+	{
+		"id": 123,
+		"name": "Bread",
+		"categoryId": 3,
+		"Ingerdients": [
+			{
+				"code": 1,
+				"percentage": 23
+			},
+			{
+				"code": 2,
+				"percentage": 45.2
+			}
+		]
+	}
+]
+

@@ -1,0 +1,26 @@
+﻿<products>
+	<product>
+		<Id>123</Id>
+		<Name>Bread</Name>
+		<CategoryId>3</CategoryId>
+		<UnitPrice>2.3</UnitPrice>
+		<Ingerdients>
+			<Ingredient>
+				<Id></Id>
+				<Percentage></Percentage>
+			</Ingredient>
+		</Ingerdients>
+	</product>
+	<product>
+		<Id>123</Id>
+		<Name>Bread</Name>
+		<CategoryId>3</CategoryId>
+		<UnitPrice>2.3</UnitPrice>
+		<Ingerdients>
+			<Ingredient>
+				<Id></Id>
+				<Percentage></Percentage>
+			</Ingredient>
+		</Ingerdients>
+	</product>
+</products>

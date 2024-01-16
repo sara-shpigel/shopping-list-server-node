@@ -1,0 +1,67 @@
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\appsettings.json
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.exe
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.deps.json
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.runtimeconfig.json
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.runtimeconfig.dev.json
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.dll
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.pdb
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.AssemblyInfoInputs.cache
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.AssemblyInfo.cs
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.csproj.CoreCompileInputs.cache
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.MvcApplicationPartsAssemblyInfo.cache
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.RazorTargetAssemblyInfo.cache
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\staticwebassets\GetPostSample.StaticWebAssets.Manifest.cache
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\staticwebassets\GetPostSample.StaticWebAssets.xml
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.dll
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.pdb
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.genruntimeconfig.cache
+I:\Tichnut\Hagashat-Homarim\GroupA\WebAPI\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.csprojAssemblyReference.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.StaticWebAssets.xml
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.exe
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.deps.json
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.runtimeconfig.json
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.runtimeconfig.dev.json
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\GetPostSample.pdb
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.AssemblyInfoInputs.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.AssemblyInfo.cs
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.csproj.CoreCompileInputs.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.MvcApplicationPartsAssemblyInfo.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.RazorTargetAssemblyInfo.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\staticwebassets\GetPostSample.StaticWebAssets.Manifest.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\staticwebassets\GetPostSample.StaticWebAssets.Pack.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GetPostSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GetPostSample.props
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GetPostSample.props
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GetPostSample.props
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.pdb
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.genruntimeconfig.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.csproj.AssemblyReference.cache
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\שרה\חיפוש עבודה\react\GetPostSample\GetPostSample\obj\Debug\netcoreapp3.1\GetPostSample.csproj.CopyComplete
